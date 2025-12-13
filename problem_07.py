@@ -1,0 +1,8 @@
+b=int(input("Enter breadth:"))
+h=int(input("Enter height:"))
+w=int(input("Enter width:"))
+l=int(input("Enter length:"))
+A=(1/2*b*h)
+peri=2*(l*w)
+print("Area:",A)
+pint("Perimeter:",peri)
