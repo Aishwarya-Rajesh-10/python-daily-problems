@@ -6,5 +6,3 @@ if a > 1:
             break
         else:
             print("Its a prime number")
-
-
